@@ -1,5 +1,0 @@
-
-[boundary]
-quantity=riemannbnd
-locationFile=Boundary01.pli
-forcingFile=Riemann.bc
