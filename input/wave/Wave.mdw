@@ -1,0 +1,620 @@
+[WaveFileInformation] 
+  FileVersion = 02.00 
+[General]
+  ReferenceDate = 1981-07-09 
+  DirConvention = nautical 
+  SimMode = non-stationary 
+  TimeStep = 60 
+  TimeInterval = 60 
+  OnlyInputVerify = false 
+  FlowBedLevel = 2 
+  FlowWaterLevel = 2 
+  FlowVelocity = 2 
+  FlowVelocityType = depth-averaged 
+  FlowWind = 2 
+  DirSpace = circle 
+  NDir = 36 
+  StartDir = 0 
+  EndDir = 360 
+  NFreq = 24 
+  FreqMin = 0.03 
+  FreqMax = 1 
+  WaterLevel = 0
+  XVeloc = 0 
+  YVeloc = 0 
+  WindSpeed = 0 
+  WindDir = 0 
+  MeteoFile = spiderweb_name.spw 
+[TimePoint]
+    Time = 1.200000e+03
+[TimePoint]
+    Time = 1.260000e+03
+[TimePoint]
+    Time = 1.320000e+03
+[TimePoint]
+    Time = 1.380000e+03
+[TimePoint]
+    Time = 1.440000e+03
+[TimePoint]
+    Time = 1.500000e+03
+[TimePoint]
+    Time = 1.560000e+03
+[TimePoint]
+    Time = 1.620000e+03
+[TimePoint]
+    Time = 1.680000e+03
+[TimePoint]
+    Time = 1.740000e+03
+[TimePoint]
+    Time = 1.800000e+03
+[TimePoint]
+    Time = 1.860000e+03
+[TimePoint]
+    Time = 1.920000e+03
+[TimePoint]
+    Time = 1.980000e+03
+[TimePoint]
+    Time = 2.040000e+03
+[TimePoint]
+    Time = 2.100000e+03
+[TimePoint]
+    Time = 2.160000e+03
+[TimePoint]
+    Time = 2.220000e+03
+[TimePoint]
+    Time = 2.280000e+03
+[TimePoint]
+    Time = 2.340000e+03
+[TimePoint]
+    Time = 2.400000e+03
+[TimePoint]
+    Time = 2.460000e+03
+[TimePoint]
+    Time = 2.520000e+03
+[TimePoint]
+    Time = 2.580000e+03
+[TimePoint]
+    Time = 2.640000e+03
+[TimePoint]
+    Time = 2.700000e+03
+[TimePoint]
+    Time = 2.760000e+03
+[TimePoint]
+    Time = 2.820000e+03
+[TimePoint]
+    Time = 2.880000e+03
+[TimePoint]
+    Time = 2.940000e+03
+[TimePoint]
+    Time = 3.000000e+03
+[TimePoint]
+    Time = 3.060000e+03
+[TimePoint]
+    Time = 3.120000e+03
+[TimePoint]
+    Time = 3.180000e+03
+[TimePoint]
+    Time = 3.240000e+03
+[TimePoint]
+    Time = 3.300000e+03
+[TimePoint]
+    Time = 3.360000e+03
+[TimePoint]
+    Time = 3.420000e+03
+[TimePoint]
+    Time = 3.480000e+03
+[TimePoint]
+    Time = 3.540000e+03
+[TimePoint]
+    Time = 3.600000e+03
+[TimePoint]
+    Time = 3.660000e+03
+[TimePoint]
+    Time = 3.720000e+03
+[TimePoint]
+    Time = 3.780000e+03
+[TimePoint]
+    Time = 3.840000e+03
+[TimePoint]
+    Time = 3.900000e+03
+[TimePoint]
+    Time = 3.960000e+03
+[TimePoint]
+    Time = 4.020000e+03
+[TimePoint]
+    Time = 4.080000e+03
+[TimePoint]
+    Time = 4.140000e+03
+[TimePoint]
+    Time = 4.200000e+03
+[TimePoint]
+    Time = 4.260000e+03
+[TimePoint]
+    Time = 4.320000e+03
+[TimePoint]
+    Time = 4.380000e+03
+[TimePoint]
+    Time = 4.440000e+03
+[TimePoint]
+    Time = 4.500000e+03
+[TimePoint]
+    Time = 4.560000e+03
+[TimePoint]
+    Time = 4.620000e+03
+[TimePoint]
+    Time = 4.680000e+03
+[TimePoint]
+    Time = 4.740000e+03
+[TimePoint]
+    Time = 4.800000e+03
+[TimePoint]
+    Time = 4.860000e+03
+[TimePoint]
+    Time = 4.920000e+03
+[TimePoint]
+    Time = 4.980000e+03
+[TimePoint]
+    Time = 5.040000e+03
+[TimePoint]
+    Time = 5.100000e+03
+[TimePoint]
+    Time = 5.160000e+03
+[TimePoint]
+    Time = 5.220000e+03
+[TimePoint]
+    Time = 5.280000e+03
+[TimePoint]
+    Time = 5.340000e+03
+[TimePoint]
+    Time = 5.400000e+03
+[TimePoint]
+    Time = 5.460000e+03
+[TimePoint]
+    Time = 5.520000e+03
+[TimePoint]
+    Time = 5.580000e+03
+[TimePoint]
+    Time = 5.640000e+03
+[TimePoint]
+    Time = 5.700000e+03
+[TimePoint]
+    Time = 5.760000e+03
+[TimePoint]
+    Time = 5.820000e+03
+[TimePoint]
+    Time = 5.880000e+03
+[TimePoint]
+    Time = 5.940000e+03
+[TimePoint]
+    Time = 6.000000e+03
+[TimePoint]
+    Time = 6.060000e+03
+[TimePoint]
+    Time = 6.120000e+03
+[TimePoint]
+    Time = 6.180000e+03
+[TimePoint]
+    Time = 6.240000e+03
+[TimePoint]
+    Time = 6.300000e+03
+[TimePoint]
+    Time = 6.360000e+03
+[TimePoint]
+    Time = 6.420000e+03
+[TimePoint]
+    Time = 6.480000e+03
+[TimePoint]
+    Time = 6.540000e+03
+[TimePoint]
+    Time = 6.600000e+03
+[TimePoint]
+    Time = 6.660000e+03
+[TimePoint]
+    Time = 6.720000e+03
+[TimePoint]
+    Time = 6.780000e+03
+[TimePoint]
+    Time = 6.840000e+03
+[TimePoint]
+    Time = 6.900000e+03
+[TimePoint]
+    Time = 6.960000e+03
+[TimePoint]
+    Time = 7.020000e+03
+[TimePoint]
+    Time = 7.080000e+03
+[TimePoint]
+    Time = 7.140000e+03
+[TimePoint]
+    Time = 7.200000e+03
+[TimePoint]
+    Time = 7.260000e+03
+[TimePoint]
+    Time = 7.320000e+03
+[TimePoint]
+    Time = 7.380000e+03
+[TimePoint]
+    Time = 7.440000e+03
+[TimePoint]
+    Time = 7.500000e+03
+[TimePoint]
+    Time = 7.560000e+03
+[TimePoint]
+    Time = 7.620000e+03
+[TimePoint]
+    Time = 7.680000e+03
+[TimePoint]
+    Time = 7.740000e+03
+[TimePoint]
+    Time = 7.800000e+03
+[TimePoint]
+    Time = 7.860000e+03
+[TimePoint]
+    Time = 7.920000e+03
+[TimePoint]
+    Time = 7.980000e+03
+[TimePoint]
+    Time = 8.040000e+03
+[TimePoint]
+    Time = 8.100000e+03
+[TimePoint]
+    Time = 8.160000e+03
+[TimePoint]
+    Time = 8.220000e+03
+[TimePoint]
+    Time = 8.280000e+03
+[TimePoint]
+    Time = 8.340000e+03
+[TimePoint]
+    Time = 8.400000e+03
+[TimePoint]
+    Time = 8.460000e+03
+[TimePoint]
+    Time = 8.520000e+03
+[TimePoint]
+    Time = 8.580000e+03
+[TimePoint]
+    Time = 8.640000e+03
+[TimePoint]
+    Time = 8.700000e+03
+[TimePoint]
+    Time = 8.760000e+03
+[TimePoint]
+    Time = 8.820000e+03
+[TimePoint]
+    Time = 8.880000e+03
+[TimePoint]
+    Time = 8.940000e+03
+[TimePoint]
+    Time = 9.000000e+03
+[TimePoint]
+    Time = 9.060000e+03
+[TimePoint]
+    Time = 9.120000e+03
+[TimePoint]
+    Time = 9.180000e+03
+[TimePoint]
+    Time = 9.240000e+03
+[TimePoint]
+    Time = 9.300000e+03
+[TimePoint]
+    Time = 9.360000e+03
+[TimePoint]
+    Time = 9.420000e+03
+[TimePoint]
+    Time = 9.480000e+03
+[TimePoint]
+    Time = 9.540000e+03
+[TimePoint]
+    Time = 9.600000e+03
+[TimePoint]
+    Time = 9.660000e+03
+[TimePoint]
+    Time = 9.720000e+03
+[TimePoint]
+    Time = 9.780000e+03
+[TimePoint]
+    Time = 9.840000e+03
+[TimePoint]
+    Time = 9.900000e+03
+[TimePoint]
+    Time = 9.960000e+03
+[TimePoint]
+    Time = 1.002000e+04
+[TimePoint]
+    Time = 1.008000e+04
+[TimePoint]
+    Time = 1.014000e+04
+[TimePoint]
+    Time = 1.020000e+04
+[TimePoint]
+    Time = 1.026000e+04
+[TimePoint]
+    Time = 1.032000e+04
+[TimePoint]
+    Time = 1.038000e+04
+[TimePoint]
+    Time = 1.044000e+04
+[TimePoint]
+    Time = 1.050000e+04
+[TimePoint]
+    Time = 1.056000e+04
+[TimePoint]
+    Time = 1.062000e+04
+[TimePoint]
+    Time = 1.068000e+04
+[TimePoint]
+    Time = 1.074000e+04
+[TimePoint]
+    Time = 1.080000e+04
+[TimePoint]
+    Time = 1.086000e+04
+[TimePoint]
+    Time = 1.092000e+04
+[TimePoint]
+    Time = 1.098000e+04
+[TimePoint]
+    Time = 1.104000e+04
+[TimePoint]
+    Time = 1.110000e+04
+[TimePoint]
+    Time = 1.116000e+04
+[TimePoint]
+    Time = 1.122000e+04
+[TimePoint]
+    Time = 1.128000e+04
+[TimePoint]
+    Time = 1.134000e+04
+[TimePoint]
+    Time = 1.140000e+04
+[TimePoint]
+    Time = 1.146000e+04
+[TimePoint]
+    Time = 1.152000e+04
+[TimePoint]
+    Time = 1.158000e+04
+[TimePoint]
+    Time = 1.164000e+04
+[TimePoint]
+    Time = 1.170000e+04
+[TimePoint]
+    Time = 1.176000e+04
+[TimePoint]
+    Time = 1.182000e+04
+[TimePoint]
+    Time = 1.188000e+04
+[TimePoint]
+    Time = 1.194000e+04
+[TimePoint]
+    Time = 1.200000e+04
+[TimePoint]
+    Time = 1.206000e+04
+[TimePoint]
+    Time = 1.212000e+04
+[TimePoint]
+    Time = 1.218000e+04
+[TimePoint]
+    Time = 1.224000e+04
+[TimePoint]
+    Time = 1.230000e+04
+[TimePoint]
+    Time = 1.236000e+04
+[TimePoint]
+    Time = 1.242000e+04
+[TimePoint]
+    Time = 1.248000e+04
+[TimePoint]
+    Time = 1.254000e+04
+[TimePoint]
+    Time = 1.260000e+04
+[TimePoint]
+    Time = 1.266000e+04
+[TimePoint]
+    Time = 1.272000e+04
+[TimePoint]
+    Time = 1.278000e+04
+[TimePoint]
+    Time = 1.284000e+04
+[TimePoint]
+    Time = 1.290000e+04
+[TimePoint]
+    Time = 1.296000e+04
+[TimePoint]
+    Time = 1.302000e+04
+[TimePoint]
+    Time = 1.308000e+04
+[TimePoint]
+    Time = 1.314000e+04
+[TimePoint]
+    Time = 1.320000e+04
+[TimePoint]
+    Time = 1.326000e+04
+[TimePoint]
+    Time = 1.332000e+04
+[TimePoint]
+    Time = 1.338000e+04
+[TimePoint]
+    Time = 1.344000e+04
+[TimePoint]
+    Time = 1.350000e+04
+[TimePoint]
+    Time = 1.356000e+04
+[TimePoint]
+    Time = 1.362000e+04
+[TimePoint]
+    Time = 1.368000e+04
+[TimePoint]
+    Time = 1.374000e+04
+[TimePoint]
+    Time = 1.380000e+04
+[TimePoint]
+    Time = 1.386000e+04
+[TimePoint]
+    Time = 1.392000e+04
+[TimePoint]
+    Time = 1.398000e+04
+[TimePoint]
+    Time = 1.404000e+04
+[TimePoint]
+    Time = 1.410000e+04
+[TimePoint]
+    Time = 1.416000e+04
+[TimePoint]
+    Time = 1.422000e+04
+[TimePoint]
+    Time = 1.428000e+04
+[TimePoint]
+    Time = 1.434000e+04
+[TimePoint]
+    Time = 1.440000e+04
+[TimePoint]
+    Time = 1.446000e+04
+[TimePoint]
+    Time = 1.452000e+04
+[TimePoint]
+    Time = 1.458000e+04
+[TimePoint]
+    Time = 1.464000e+04
+[TimePoint]
+    Time = 1.470000e+04
+[TimePoint]
+    Time = 1.476000e+04
+[TimePoint]
+    Time = 1.482000e+04
+[TimePoint]
+    Time = 1.488000e+04
+[TimePoint]
+    Time = 1.494000e+04
+[TimePoint]
+    Time = 1.500000e+04
+[TimePoint]
+    Time = 1.506000e+04
+[TimePoint]
+    Time = 1.512000e+04
+[TimePoint]
+    Time = 1.518000e+04
+[TimePoint]
+    Time = 1.524000e+04
+[TimePoint]
+    Time = 1.530000e+04
+[TimePoint]
+    Time = 1.536000e+04
+[TimePoint]
+    Time = 1.542000e+04
+[TimePoint]
+    Time = 1.548000e+04
+[TimePoint]
+    Time = 1.554000e+04
+[TimePoint]
+    Time = 1.560000e+04
+[TimePoint]
+    Time = 1.566000e+04
+[TimePoint]
+    Time = 1.572000e+04
+[TimePoint]
+    Time = 1.578000e+04
+[TimePoint]
+    Time = 1.584000e+04
+[TimePoint]
+    Time = 1.590000e+04
+[TimePoint]
+    Time = 1.596000e+04
+[TimePoint]
+    Time = 1.602000e+04
+[TimePoint]
+    Time = 1.608000e+04
+[Output]
+  COMFile = ../dflowfm/output/FlowFM_com.nc 
+  WriteCOM = true 
+  COMWriteInterval = 60 
+  AppendCOM = false 
+  MassFluxToCOM = true 
+  MapWriteInterval = 60 
+  WriteTable = true 
+  WriteSpec1D = true 
+  WriteSpec2D = true 
+  UseHotFile = false 
+  TestOutputLevel = 0 
+  TraceCalls = false 
+  MapWriteNetCDF = true 
+  NetCDFSinglePrecision = false 
+[Constants]
+  WaterLevelCorrection = 0 
+  Gravity = 9.81 
+  WaterDensity = 1025 
+  NorthDir = 90 
+  MinimumDepth = 0.05 
+[Processes]
+  GenModePhys = 3 
+  WaveSetup = false 
+  Breaking = true 
+  BreakAlpha = 1 
+  BreakGamma = 0.73 
+  Triads = false 
+  TriadsAlpha = 0.05 
+  TriadsBeta = 2.5 
+  BedFriction = jonswap 
+  BedFricCoef = 0.038 
+  Diffraction = false 
+  DiffracSteps = 0 
+  DiffracProp = true 
+  DiffracCoef = 0.2 
+  WindGrowth = true 
+  Quadruplets = true 
+  WhiteCapping = Komen 
+  Refraction = true 
+  FreqShift = true 
+  WaveForces = dissipation 3d 
+[Numerics]
+  DirSpaceCDD = 0.5 
+  FreqSpaceCSS = 0.5 
+  RChHsTm01 = 0.02 
+  RChMeanHs = 0.02 
+  RChMeanTm01 = 0.02 
+  PercWet = 98 
+  MaxIter = 15 
+[Boundary]
+  Name = Boundary 
+  Definition = xy-coordinates 
+  StartCoordX = -98.3189698 
+  EndCoordX = -86.4447522 
+  StartCoordY = 22.3209980 
+  EndCoordY = 30.9557683 
+  SpectrumSpec = parametric 
+  SpShapeType = Jonswap 
+  PeriodType = peak 
+  DirSpreadType = power 
+  PeakEnhanceFac = 3.3000000e+000 
+  WaveHeight = 0.0000000e+000 
+  Period = 1.0000000e+000 
+  Direction = 0.0000000e+000 
+  DirSpreading = 4.0000000e+000 
+[Domain]
+  Grid = Grid_entire_net.grd 
+  BedLevel = Bathymetry_entire.dep 
+  Output = true 
+[Domain]
+  Grid = Grid_nesting_net.grd 
+  BedLevel = Bathymetry_nesting.dep 
+  NestedInDomain = 1 
+  Output = true 
+[Domain]
+  Grid = Grid_nesting01.grd 
+  BedLevel = Bathymetry_nesting01.dep 
+  NestedInDomain = 2 
+  Output = true 
+[Domain]
+  Grid = Grid_nesting02.grd 
+  BedLevel = Bathymetry_nesting02.dep 
+  NestedInDomain = 2 
+  Output = true 
+[Domain]
+  Grid = Grid_nesting03.grd 
+  BedLevel = Bathymetry_nesting03.dep 
+  NestedInDomain = 2 
+  Output = true 
+[Domain]
+  Grid = Grid_nesting04.grd 
+  BedLevel = Bathymetry_nesting04.dep 
+  NestedInDomain = 2 
+  Output = true 

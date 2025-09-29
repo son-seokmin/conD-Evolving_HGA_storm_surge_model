@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?> 
+<dimrConfig xmlns="http://schemas.deltares.nl/dimr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.deltares.nl/dimr http://content.oss.deltares.nl/schemas/dimr-1.2.xsd"> 
+  <documentation>
+    <fileVersion>1.2</fileVersion> 
+    <createdBy>Deltares, Coupling Team</createdBy> 
+    <creationDate>2024-01-10T21:20:59.5818399Z</creationDate> 
+  </documentation>
+  <control> 
+    <parallel> 
+      <startGroup> 
+        <time>0 3600  964800</time> 
+        <start name="Wave" /> 
+      </startGroup> 
+      <start name="FlowFM" /> 
+    </parallel> 
+  </control> 
+  <component name="Wave"> 
+    <library>wave</library> 
+    <workingDir>wave</workingDir> 
+    <inputFile>Wave.mdw</inputFile> 
+  </component> 
+  <component name="FlowFM"> 
+    <library>dflowfm</library> 
+    <workingDir>dflowfm</workingDir> 
+    <inputFile>FlowFM.mdu</inputFile> 
+  </component> 
+</dimrConfig> 
