@@ -66,7 +66,7 @@ To request the grid file, please contact seokmins@umich.edu.
 13. Wave.mdw - a main input file 
 
 ### DIMR Congifuration file (dimr_config.xml)
-- a input configuration file for the module Deltares Integrated Model Runner (DIMR)
+- an input configuration file for the module Deltares Integrated Model Runner (DIMR)
 
 
 ## Contact
