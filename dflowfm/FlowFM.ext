@@ -1,0 +1,14 @@
+
+QUANTITY=frictioncoefficient 
+FILENAME=frictioncoefficient.xyz 
+FILETYPE=7 
+METHOD=6 
+OPERAND=O 
+AVERAGINGTYPE=2 
+RELATIVESEARCHCELLSIZE=1 
+
+QUANTITY=airpressure_windx_windy 
+FILENAME=spiderweb_name.spw
+FILETYPE=5 
+METHOD=1 
+OPERAND=+ 
