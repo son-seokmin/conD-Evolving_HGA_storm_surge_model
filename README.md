@@ -42,7 +42,7 @@ The models were simulated in Delft3D FM Suite 2021.03 2D3D. This software requir
 3. FlowFM.mdu - a main input file
 4. FlowFM_bnd.ext - an external forcing file at boundaries
 5. FlowFM_fxw.pliz - a fixed weir file (in polyline file format with z values, representing the coastal spine)
-6. FlowFM_net.nc - an unstructured grid (network) file 
+6. FlowFM_net.nc - an unstructured grid (network) file, including bathymetry and topography data
 * Note: The file here is similar, but not exact the same as in the simulations. Due to size limitation, the grid file used is not included in the repository.
 To request the grid file, please contact seokmins@umich.edu.
 7. FlowFM_observations_obs.xyn - an observation station file
