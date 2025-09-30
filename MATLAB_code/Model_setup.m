@@ -110,7 +110,7 @@ for track_num = track_list(1:end)
     fprintf(h_mdu,'DryPointsFile = \n');
     fprintf(h_mdu,'GridEnclosureFile = \n');
     fprintf(h_mdu,'WaterLevIniFile = \n');
-    fprintf(h_mdu,'LandBoundaryFile = allofflorida.ldb sixarea.ldb \n');
+    fprintf(h_mdu,'LandBoundaryFile = \n');
     fprintf(h_mdu,'ThinDamFile = \n');
     fprintf(h_mdu,'FixedWeirFile = FlowFM_fxw.pliz \n');
     fprintf(h_mdu,'PillarFile = \n');
@@ -515,3 +515,4 @@ for track_num = track_list(1:end)
     fclose(h_dimr);
 
 end
+
